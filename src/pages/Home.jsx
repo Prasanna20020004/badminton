@@ -56,9 +56,9 @@ export default function Home() {
           <span className="hero__badge">Registrations closed</span>
           <h1>CTGT Badminton Tournament</h1>
           <p className="hero__sub">
-            The sign-up sheet is locked and the draw is next. Here's the
-            board: who's in, which categories are stacked, and what to expect
-            on match day.
+            Registration's closed and the draw is up next. Here's the board —
+            who's registered, how each category is shaping up, and what to
+            expect on match day.
           </p>
 
           <div className="hero__facts">
